@@ -8,6 +8,9 @@ Here are some ideas to get you started:
 
 ## Im Adewoye Adegoke
 
+- Technical Lead Skye Innovation Technology
+- CTO Boolbyte Technologies
+
 #### Fullstack Engineer, Cloud Devops Engineer, Blockchain Engineer, AWS certified Cloud Solutions Architect. 
 
 - My stack includes, Typescript, React, Vue, Node js, Python, Django, Php, laravel, Docker, Kubernetes, circle ci, ansible, AWS, Solidity
