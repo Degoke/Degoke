@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - Technical Lead Skye Innovation Technology
 - CTO Boolbyte Technologies
 
-#### Fullstack Engineer, Cloud Devops Engineer, Blockchain Engineer, AWS certified Cloud Solutions Architect. 
+#### I'm A Fullstack Engineer, Cloud Devops Engineer, Blockchain Engineer, AWS certified Cloud Solutions Architect. 
 
 - My stack includes, Typescript, React, Vue, Node js, Python, Django, Php, laravel, Docker, Kubernetes, circle ci, ansible, AWS, Solidity
 - 🌱 I’m currently learning Technical Writing, distributed systems and plan to learn C#, Kotlin, Golang, Rust
