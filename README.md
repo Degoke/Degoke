@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 ## Im Adewoye Adegoke
 
-- Technical Lead Skye Innovation Technology
 - CTO Boolbyte Technologies
+- Technical Lead Skye Innovation Technology
 
 #### I'm A Fullstack Engineer, Cloud Devops Engineer, Blockchain Engineer, AWS certified Cloud Solutions Architect. 
 
