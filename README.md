@@ -1,17 +1,34 @@
-### Hi there 👋
 
-<!--
-**Degoke/Degoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Degoke! 👋
 
-Here are some ideas to get you started:
--->
 
-## Im Adewoye Adegoke
+## 🚀 About Me
+I'm a Fullstack Engineer, Cloud DevOps Engineer, and Blockchain Engineer
 
-Fullstack Engineer, Cloud Devops Engineer, Blockchain Engineer, AWS certified Cloud Solutions Architect. 
 
-- My stack includes, Typescript, React, Vue, Node js, Golang, Rust, Python, Django, Php, laravel, Docker, Kubernetes, circle ci, ansible, AWS, Solidity
-- 🌱 I’m currently learning Technical Writing, distributed systems
-- 👯 I’m looking to collaborate on anything that involves my Stack, what im currently learning and plan to learn
-- 🤔 I’m looking for oppurtunities to work on large scale distributed systems and blockchain applications
-- 📫 How to reach me: degokeadewoye@gmail.com
+## 🛠 Skills
+Typescript, Golang, Python, Solidity
+
+Frontend with React Vue and Angular
+
+Backend With Golang, Nodejs, Express, Nest Js, Python 
+
+DevOps and Cloud with Docker, Kubernetes, Terraform, Circle Ci, Ansible, AWS
+
+Blockchain with Solidity, ethers, web3 js
+
+👩‍💻 I'm currently working on Designing and Implementing high performant distributed systems
+
+🧠 I'm currently learning Technical writing you can check out my blog 
+
+👯‍♀️ I'm looking to collaborate on building Web Applications, Developer tooling, large-scale distributed systems, and blockchain applications
+
+🤔 I'm looking for help with Contributions to some of my open-source projects. Check out dekube-core
+
+💬 Ask me about anything if I don't know the answers we'll search for them together
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://degokeadewoye.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/degoke/)
+
